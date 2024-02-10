@@ -35,3 +35,22 @@ body {
     border: 1px solid #ddd;
     border-radius: 4px;
 }
+
+.btn{
+    padding : 8px 15px;
+    border: none;
+    background-color: #383f9f;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn:hover{
+    background-color: #0056b3;
+}
+
+
+
+
+
